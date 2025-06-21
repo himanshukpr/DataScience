@@ -1,0 +1,7 @@
+day,temperature,windspeed,event
+30-04-2025,24,6,rain
+03-05-2025,,,rain
+04-05-2025,23,3,rain
+05-05-2025,88,2,sunny
+06-05-2025,23,7,
+07-05-2025,,3,rain
