@@ -1,0 +1,17 @@
+Day,City,Temperature (C),Wind Speed (km/h),Event
+2025-06-22,Mumbai,26,15,Cloudy
+2025-06-22,Mumbai,21,23,Cloudy
+2025-06-23,Mumbai,29,17,Sunny
+2025-06-23,Mumbai,25,7,Cloudy
+2025-06-24,Mumbai,30,17,Windy
+2025-06-24,Mumbai,28,30,Windy
+2025-06-25,Mumbai,27,14,Stormy
+2025-06-25,Mumbai,20,20,Cloudy
+2025-06-22,Bangalore,35,10,Stormy
+2025-06-22,Bangalore,25,11,Sunny
+2025-06-23,Bangalore,23,15,Rainy
+2025-06-23,Bangalore,29,10,Rainy
+2025-06-24,Bangalore,30,17,Windy
+2025-06-24,Bangalore,28,30,Windy
+2025-06-25,Bangalore,27,14,Stormy
+2025-06-25,Bangalore,20,20,Cloudy
